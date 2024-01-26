@@ -2,7 +2,8 @@
 
 Malicious PyPI package template with python reverse shell.
 
-- How to use: change inserted code, create package, upload package
+- Dependent tools: pip, twine
+- Usage: change inserted code, create package, upload package
 - Procedure:
 
 ```bash
